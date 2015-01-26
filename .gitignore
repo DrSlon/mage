@@ -1,4 +1,5 @@
 /.idea
 /composer.lock
 /public/.gitignore
+/public/app/etc/local.xml
 /vendor/
