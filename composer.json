@@ -26,7 +26,7 @@
     ],
     "extra" : {
         "map" : [
-			["public/app/code/community/Slon/Core", "app/code/community/Slon/Core"],
+			["public/app/code/local/Slon/Core", "app/code/local/Slon/Core"],
             ["public/app/etc/modules/Slon_Core.xml", "app/etc/modules/Slon_Core.xml"]
         ],
 		"magento-root-dir" : "./public/",
