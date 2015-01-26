@@ -1,0 +1,19 @@
+<config>
+    <modules>
+        <Slon_Core>
+            <version>0.0.1</version>
+        </Slon_Core>
+    </modules>
+    <global>
+        <models>
+			<slon>
+                <class>Slon_Core_Model</class>
+            </slon>
+        </models>
+		<helpers>
+            <slon>
+                <class>Slon_Core_Helper</class>
+            </slon>
+        </helpers>
+    </global>
+</config>
